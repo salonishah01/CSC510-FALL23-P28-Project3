@@ -81,17 +81,8 @@ These Contributing guidelines are adapted from the [Atom's](https://github.com/a
 
 ## 💻 Contributors
 
-### Phase 3 Team Members
-- [Rahul Kalita](https://github.com/rahulkalita8)
-- [Vignesh Muthukumar](https://github.com/vickymhs)
-- [Eshita Arza](https://github.com/ArzaEshita)
-- [Luis](https://github.com/lgdeloss)
-- [Isha Gupta](https://github.com/isha-bansal0115)
-- [Kiran Teja](https://github.com/kirantejatummuri)
-
 ### Phase 2 Team Members
-* [Anirudh Pande](https://github.com/apande95)
-* [Bradley Erickson](https://github.com/bradley-erickson)
-* [Lalit Bangad](https://github.com/lalit10)
-* [Pratyush Vaidya](https://github.com/Pratyush1184)
-* [Urvashi Kar](https://github.com/Urvashi74)
+* [Meghana Chowdary Ainampudi](https://github.com/ameghana)
+* [Sai Abhigna Tummala](https://github.com/abhigna98)
+* [Sravya Karanam](https://github.com/SreeKaranam)
+* [Sucharitha Nadendla](https://github.com/Nsucharitha)
