@@ -34,7 +34,14 @@ az query:laptop
 tg query:laptop
 tg query:laptop
 cc query:laptop
+<<<<<<< HEAD
 tg query:laptop
 tg query:laptop
 cc query:laptop
 cc query:laptop
+cc query:laptop
+cc query:laptop
+cc query:laptop
+=======
+wm query:watch
+>>>>>>> 37da6b7 (addded slash icon)
