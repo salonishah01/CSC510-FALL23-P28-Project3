@@ -18,7 +18,7 @@
 
 Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
 
-Slash is a publicly accessible web API framework that allows one to scrape the most popular e-commerce websites to get the best deals on the searched items across multiple e-commerce websites. Currently supported websites include [Amazon](https://www.amazon.com/), [Walmart](https://www.walmart.com/), [Target](https://www.target.com/), [BestBuy](https://www.bestbuy.com/), [Costco](https://www.costco.com/) and [EBay](https://www.ebay.com/).
+Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter,organise and download search results.It also provides visualisation in the form of charts and graphs.
 
 - **Fast**: With slash, you can save over 50% of your time by comparing deals across websites within seconds
 - **Easy**: Slash introduces easy to use public APIs to filter, sort and search through the search results
@@ -175,14 +175,12 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 
 # Team Members
 
-## Phase 3 Team Members
+## Phase 2 Team Members
 
-- [Rahul Kalita](https://github.com/rahulkalita8)
-- [Vignesh Muthukumar](https://github.com/vickymhs)
-- [Eshita Arza](https://github.com/ArzaEshita)
-- [Luis](https://github.com/lgdeloss)
-- [Isha Gupta](https://github.com/isha-bansal0115)
-- [Kiran Teja](https://github.com/kirantejatummuri)
+- [Meghana Chowdary Ainampudi](https://github.com/ameghana)
+- [Sai Abhigna Tummala](https://github.com/abhigna98)
+- [Sravya Karanam](https://github.com/SreeKaranam)
+- [Sucharitha Nadendla](https://github.com/Nsucharitha)
 
 ## :email: Support
 
