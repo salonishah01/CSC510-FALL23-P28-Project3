@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hide-filters-button{
     display: none !important;
 }
@@ -5,5 +6,16 @@
     background-color: #c71c1c;
 }
 .table-row:nth-child(odd){
+=======
+.hide-filters-button {
+    display: none !important;
+}
+
+.table-row:nth-child(even) {
+    background-color: #c71c1c;
+}
+
+.table-row:nth-child(odd) {
+>>>>>>> 37da6b7 (addded slash icon)
     background-color: #30ca36;
 }
