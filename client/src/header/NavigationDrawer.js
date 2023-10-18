@@ -13,7 +13,7 @@ function NavigationBar() {
           .filter((route) => route.name)
           .map((route, index) => (
             <Link to={route.path} key={index} style={{ textDecoration: 'none' }}>
-              <Button color="inherit">{route.name}</Button>
+              <Button color="inherit" style={{ color: 'white' }}>{route.name}</Button>
             </Link>
           ))}
       </Toolbar>
