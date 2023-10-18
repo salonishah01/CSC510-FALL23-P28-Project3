@@ -16,7 +16,7 @@ import TableSortLabel from "@mui/material/TableSortLabel";
 import Link from "@mui/material/Link";
 import Paper from "@mui/material/Paper";
 import { visuallyHidden } from "@mui/utils";
-
+import { FormattedMessage } from 'react-intl';
 import { useLocation } from "react-router-dom";
 
 const data = [
@@ -248,7 +248,7 @@ const EnhancedTableToolbar = () => {
       }}
     >
       <Typography sx={{ flex: "1 1 100%" }} variant="h6" id="tableTitle" component="div">
-        Results
+        <FormattedMessage id="Results" />
       </Typography>
     </Toolbar>
   );
@@ -377,5 +377,5 @@ export default function Results() {
       </Box>
     );
   }
- 
+
 }

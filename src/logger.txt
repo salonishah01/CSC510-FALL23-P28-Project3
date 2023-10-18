@@ -38,3 +38,5 @@ tg query:laptop
 tg query:laptop
 cc query:laptop
 cc query:laptop
+cc query:laptop
+cc query:laptop

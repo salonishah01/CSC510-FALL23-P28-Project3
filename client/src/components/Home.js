@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 import Grid from "@mui/material/Grid";
 import getResults from "../util";
 import Button from "@mui/material/Button";
-
+import { FormattedMessage } from 'react-intl';
 import { useNavigate } from "react-router-dom";
 
 const useStyles = makeStyles({
