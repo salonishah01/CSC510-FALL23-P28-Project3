@@ -1,16 +1,13 @@
 <p align="center"><img width="500" src="./assets/slash.png"></p>
 
-![GitHub](https://img.shields.io/github/license/Urvashi74/slash)
-![github workflow](https://github.com/secheaper/cheaper/actions/workflows/python-app.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/431326985.svg)](https://zenodo.org/badge/latestdoi/431326985)
-![Github](https://img.shields.io/badge/language-python-red.svg)
-![Github](https://img.shields.io/badge/language-node-red.svg)
-![GitHub issues](https://img.shields.io/github/issues-raw/NCSU-Group7-SE2021/slash)
-![Github closes issues](https://img.shields.io/github/issues-closed-raw/NCSU-Group7-SE2021/slash)
-![Github pull requests](https://img.shields.io/github/issues-pr/NCSU-Group7-SE2021/slash)
-![Github closed pull requests](https://img.shields.io/github/issues-pr-closed/NCSU-Group7-SE2021/slash)
-[![Node.js CI](https://github.com/NCSU-Group7-SE2021/slash/actions/workflows/node.js.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/slash/actions/workflows/node.js.yml)
-[![Python Application](https://github.com/NCSU-Group7-SE2021/slash/actions/workflows/python-app.yml/badge.svg)](https://github.com/NCSU-Group7-SE2021/slash/actions/workflows/python-app.yml)
+[![GitHub issues](https://img.shields.io/github/issues/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/pulls?q=is%3Aopen+is%3Apr)
+[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![codecov](https://codecov.io/gh/NCSU-Group7-SE2021/slash/branch/main/graph/badge.svg?token=E9TCZQ6NGF)](https://codecov.io/gh/NCSU-Group7-SE2021/slash)
 
 Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
