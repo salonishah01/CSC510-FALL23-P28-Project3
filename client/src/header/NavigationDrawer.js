@@ -19,8 +19,12 @@ function NavigationBar() {
     boxSizing: 'border-box',
   };
 
+  const appBarStyle = {
+    backgroundColor: '#83604B', // Change the background color to your desired color
+  };
+
   return (
-    <AppBar position="static">
+    <AppBar position="static" style={appBarStyle}>
       <Toolbar>
         <Typography variant="h6">
           <img src={slashImage} alt="SLASH!!" style={imageStyle} />  SLASH!!

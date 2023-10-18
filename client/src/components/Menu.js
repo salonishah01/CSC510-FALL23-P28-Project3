@@ -6,7 +6,10 @@ import getResults from "../util";
 import { useNavigate } from "react-router-dom";
 import backgroundImage from '/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/components/slashwall.jpeg';
 
-
+const thickerBorders = {
+  borderWidth: '2px', // You can adjust this value to make the borders thicker
+  borderStyle: 'solid',
+};
 /**
  * Takes in input from user about the product they would like to see the prices for and routes the request to Results page
  * @returns
@@ -46,6 +49,7 @@ function Menu() {
       backgroundImage: `url(${backgroundImage})`,
       backgroundSize: 'cover',
 
+
     }}>
       <div style={{ display: "flex", marginLeft: "1vw", marginTop: "2vh" }}>
         {button === "Default" ? (
@@ -56,6 +60,8 @@ function Menu() {
               label="Item Name"
               variant="outlined"
               onChange={(e) => setSearchItem(e.target.value)}
+              style={thickerBorders}
+
             />
             <FormControl fullWidth>
               <InputLabel variant="outlined" htmlFor="outlined-basic1">
@@ -66,6 +72,7 @@ function Menu() {
                 label="Website Name"
                 variant="outlined"
                 onChange={(e) => setSearchWeb(e.target.value)}
+                style={thickerBorders}
               >
                 <MenuItem value="az">Amazon</MenuItem>
                 <MenuItem value="wm">Walmart</MenuItem>
@@ -76,7 +83,7 @@ function Menu() {
                 <MenuItem value="all">All</MenuItem>
               </Select>
             </FormControl>
-            <Button size="medium" variant="contained" color="secondary" onClick={handleSubmission}>
+            <Button size="medium" variant="contained" color="secondary" onClick={handleSubmission} style={thickerBorders}>
               Search Item
             </Button>
           </Stack>
