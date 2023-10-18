@@ -2,7 +2,7 @@ import React from "react";
 import { AppBar, Toolbar, Typography, Button } from "@mui/material";
 import { Link } from "react-router-dom";
 import { routes } from "../configs/routes";
-import slashImage from "/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/header/slash.png";
+import slashImage from "/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/header/slash.png"; //value to be changed
 
 function NavigationBar() {
 
