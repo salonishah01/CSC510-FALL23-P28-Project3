@@ -68,29 +68,99 @@ We have added a lot of new features to slash in our Phase-III.
 
 ## :rocket: Installation
 
+## 1. Python Virtual Environment Setup (Windows)
+We need the python 3.9 version, hence we need to setup a virtual environment(venv). Following are the steps to setup venv:
+
+```
+Install python 3.9 #installing python
+py --list #to view all versions on python present
+py -3.9 -m venv {virtual environment name} #creating a virtual environment
+cd {virtual environment name} #navigating to virtual environment
+Scripts\activate #activating virtual environment
+```
+
+## 2. Python Virtual Environment Setup (Mac OS)
+1.We need the python 3.9 version, Follow the below steps for setup 1)Install Homebrew:
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2.Now install PyEnv to switch between different version of python
+
+```
+brew install pyenv
+```
+
+3.Now to install required version of python using PyEnv, run this command:
+
+```
+pyenv install 3.9.2
+```
+
+4.To SetUp MacOS path for pyEnv in ZSH or OhMyZSH
+
+```
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init --path)"\n  eval "$(pyenv init -)"\nfi' >> ~/.zshrc
+pyenv global 3.9.2
+pyenv versions
+```
+
+## 3. Clone the Repository
 1. Clone the Github repository to a desired location on your computer. You will need [git](https://git-scm.com/) to be preinstalled on your machine. Once the repository is cloned, you will then `cd` into the local repository.
 
 ```
-git clone https://github.com/secheaper/slash.git
-cd slash
+git clone https://github.com/ameghana/CSC510-FALL23-P27-Project2.git
+cd CSC510-FALL23-P27-Project2
 ```
 
-2. This project uses Python 3 for the backend and React framework for the frontend.
-
-For the backend setup ensure that [Python](https://www.python.org/downloads/) and [Pip](https://pip.pypa.io/en/stable/installation/) are preinstalled. All the python requirements of the project are listed in the `requirements.txt` file. Use pip to install all of those.
+2. All the python requirements of the project are listed in the `requirements.txt` file. Use pip to install all of those.
 
 ```
 pip3 install -r requirements.txt
 ```
 
-For the frontend setup ensure that [Node](https://nodejs.org/en/) is preinstalled. All the node requirements are listed in `client/package.json` file. Use npm to install all of those.
+## 4. Node Setup for Front-end
+1. For the frontend setup ensure that [Node](https://nodejs.org/en/) is preinstalled. 
+
+```
+Install node 18.17.1 #installing older version of node.js
+```
+
+2. All the node requirements are listed in `client/package.json` file. Use npm to install all of those.
 
 ```
 cd client
 npm install
 ```
+Here if you are facing an error
 
-4. Once all the requirements are installed, you will have to `cd` into the `src` folder. Once in the `src` folder, use the python command to run the `main.py` file.
+```
+ERROR: upstream dependency conflict
+```
+
+To resolve, the below command is executed
+
+```
+npm install --force
+```
+
+You may also encounter this issue:
+
+```
+ImportError: cannot import name 'NotRequired' from 'typing_extensions'
+```
+
+To resolve that, We have to execute: 
+
+```
+pip install typing_extensions==4.7.1 –upgrade
+```
+
+## 5. Run the Application
+1. Once all the requirements are installed, you will have to `cd` into the `src` folder. Once in the `src` folder, use the python command to run the `main.py` file.
 
 ```
 cd src
@@ -102,7 +172,7 @@ For Windows
 python main.py
 ```
 
-5. Once the backend is up and running, you will have to `cd` into the `client` folder. Once in the `client` folder, use the node command to start the webserver.
+2. Once the backend is up and running, you will have to `cd` into the `client` folder. Once in the `client` folder, use the node command to start the webserver.
 
 ```
 cd client
