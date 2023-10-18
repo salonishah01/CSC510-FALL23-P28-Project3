@@ -45,3 +45,4 @@ cc query:laptop
 =======
 wm query:watch
 >>>>>>> 37da6b7 (addded slash icon)
+wm query:watch
