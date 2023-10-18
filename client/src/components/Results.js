@@ -6,7 +6,7 @@ import './styles.css';
 import {Button, darken} from '@mui/material';
 import {useNavigate} from 'react-router-dom';
 import Papa from 'papaparse';
-//import CloudDownloadIcon from '@mui/material/styles/createPalette';
+import CloudDownloadIcon from '@mui/icons-material/CloudDownload';
 
 
 const Results=()=>{
@@ -83,9 +83,26 @@ const Results=()=>{
     setCsvData(csv);
   },[])
 
+  const handleDownloadCSV=()=>{
+    const anchor = document.createElement('a');
+    anchor.href=`data:text/csv;charset=utf-8,${encodeURIComponent(csvData)}`;
+    anchor.download='table-data.csv'
+    anchor.click();
+  }
+
   return(
     <div>
-      
+      {csvData && (
+       <div style={{paddingLeft:"45%",paddingTop:"15px"}}>
+         <Button
+                startIcon={<CloudDownloadIcon/>}
+                onClick={handleDownloadCSV}
+                variant="contained" 
+         >
+           Download CSV
+         </Button>
+        </div>
+      )}
       <MaterialReactTable
         columns = {columns}
         data = {rows}
