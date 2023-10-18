@@ -1,4 +1,4 @@
-<p align="center"><img width="500" src="./assets/slash.png"></p>
+<p align="center"><img width="500" src="./assets/SlashLogo.jpeg"></p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/704785726.svg)](https://zenodo.org/badge/latestdoi/704785726)
@@ -170,8 +170,8 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 - Host website on a public server so customers can use it
 - Add login feature to store user history to provide features like bookmarking, price drop alerts and many more.
 - Our API can be used by end users such as developers who are tech-savvy individuals looking to get a one stop solution for web scraping ecommerce websites such as Amazon, Target, Ebay,etc along with API access to multiple ecommerce websites. It'll be available directly for access to people without having to dive deep into the code.
-- Chrome Extension using the functionalities of Slash API
 - An iOS or Android application.
+- Add reviews to the products
 
 # Team Members
 
