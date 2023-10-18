@@ -1,4 +1,4 @@
-<p align="center"><img width="500" src="./assets/slash.png"></p>
+<p align="center"><img width="500" src="./assets/SlashLogo.jpeg"></p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/704785726.svg)](https://zenodo.org/badge/latestdoi/704785726)
