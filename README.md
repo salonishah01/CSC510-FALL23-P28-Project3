@@ -16,13 +16,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/ameghana/CSC510-FALL23-P27-Project2)
 [![codecov](https://codecov.io/gh/NCSU-Group7-SE2021/slash/branch/main/graph/badge.svg?token=E9TCZQ6NGF)](https://codecov.io/gh/NCSU-Group7-SE2021/slash)
 
-Do you love shopping? Are you in search of some good deals while shopping online?! Slash is here to help you look for the best deals!
+Are you a fan of shopping? Are you on the lookout for fantastic online shopping deals? Look no further because Slash is your go-to destination for discovering the greatest deals!
 
 Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter,organise and download search results.It also provides visualisation in the form of charts and graphs.
 
-- **Fast**: With slash, you can save over 50% of your time by comparing deals across websites within seconds
-- **Easy**: Slash introduces easy to use public APIs to filter, sort and search through the search results
-- **Powerful**: Produces JSON responses that can be easily customised to bring about the desired output
+- **Fast**: Slash lets you save more than 50% of your time by swiftly comparing deals from various websites in just seconds.
+- **Easy**: Slash introduces user-friendly public APIs that make it a breeze to filter, sort, and search through search results.
+- **Powerful**: Generates JSON responses that are highly customizable to achieve the desired output.
 
 ---
 
@@ -160,7 +160,7 @@ pip install typing_extensions==4.7.1 –upgrade
 ```
 
 ## 5. Run the Application
-1. Once all the requirements are installed, you will have to `cd` into the `src` folder. Once in the `src` folder, use the python command to run the `main.py` file.
+1.After installing all the prerequisites, navigate to the `src` directory using the `cd` command. Once you are inside the `src` directory, execute the Python command to launch the `main.py` file.
 
 ```
 cd src
