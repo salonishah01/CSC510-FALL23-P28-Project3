@@ -89,7 +89,7 @@ const Results=()=>{
       <MaterialReactTable
         columns = {columns}
         data = {rows}
-        enableColumnFilters={false}
+        enableColumnFilters={true}
         enableDensityToggle={false}
         muiTableHeadCellProps={{
           sx: {
