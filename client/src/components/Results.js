@@ -6,7 +6,7 @@ import './styles.css';
 import {Button, darken} from '@mui/material';
 import {useNavigate} from 'react-router-dom';
 import Papa from 'papaparse';
-import CloudDownloadIcon from '@mui/material/styles/createPalette';
+//import CloudDownloadIcon from '@mui/material/styles/createPalette';
 
 
 const Results=()=>{
@@ -89,7 +89,7 @@ const Results=()=>{
       <MaterialReactTable
         columns = {columns}
         data = {rows}
-        enableColumnFilters={false}
+        enableColumnFilters={true}
         enableDensityToggle={false}
         muiTableHeadCellProps={{
           sx: {
