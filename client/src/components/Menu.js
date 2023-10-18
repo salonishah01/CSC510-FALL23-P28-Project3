@@ -36,7 +36,12 @@ function Menu() {
   const [searchWeb, setSearchWeb] = useState(undefined);
 
   return (
-    <div>
+    <div style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '80vh'
+    }}>
       <div style={{ display: "flex", marginLeft: "1vw", marginTop: "2vh" }}>
         {button === "Default" ? (
           <Stack direction="row" alignItems="center" spacing={2}>
