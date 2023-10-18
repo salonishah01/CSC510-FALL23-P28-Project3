@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import Button from "@mui/material/Button";
 import LoadingButton from "@mui/lab/LoadingButton";
-import { Stack, TextField, Select, MenuItem, InputLabel, FormControl } from "@mui/material";
+import { Stack, TextField, Select, MenuItem, InputLabel, FormControl, colors } from "@mui/material";
 import getResults from "../util";
 import { useNavigate } from "react-router-dom";
+import backgroundImage from '/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/components/slashwall.jpeg';
+
 
 /**
  * Takes in input from user about the product they would like to see the prices for and routes the request to Results page
@@ -40,11 +42,14 @@ function Menu() {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      height: '80vh'
+      height: '80vh',
+      backgroundImage: `url(${backgroundImage})`,
+      backgroundSize: 'cover',
+
     }}>
       <div style={{ display: "flex", marginLeft: "1vw", marginTop: "2vh" }}>
         {button === "Default" ? (
-          <Stack direction="row" alignItems="center" spacing={2}>
+          <Stack direction="column" alignItems="center" spacing={2}>
             <TextField
               fullWidth
               id="outlined-basic"
@@ -83,7 +88,7 @@ function Menu() {
           <div></div>
         )}
       </div>
-    </div>
+    </div >
   );
 }
 
