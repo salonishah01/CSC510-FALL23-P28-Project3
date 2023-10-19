@@ -255,4 +255,4 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 
 ## :email: Support
 
-For any queries and help, please reach out to us at: SEslash007@gmail.com
+For any queries and help, please reach out to us at: csc510se.p27@gmail.com
