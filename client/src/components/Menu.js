@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Button from "@mui/material/Button";
 import LoadingButton from "@mui/lab/LoadingButton";
 import { Stack, TextField, Select, MenuItem, InputLabel, FormControl, colors } from "@mui/material";
 import getResults from "../util";
 import { useNavigate } from "react-router-dom";
-import backgroundImage from '/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/components/slashwall.jpeg';
+import backgroundImage from './slashwall.jpeg';
 
 const thickerBorders = {
   borderWidth: '2px', // You can adjust this value to make the borders thicker
@@ -15,6 +15,34 @@ const thickerBorders = {
  * @returns
  */
 function Menu() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
+  useEffect(() => {
+    const abortController = new AbortController();
+  
+    const fetchData = async () => {
+      try {
+        const response = await fetch('/results', {
+          signal: abortController.signal, // Pass the abort signal
+        });
+        const data = await response.json();
+        if (!abortController.signal.aborted) {
+          setData(data);
+        }
+      } catch (error) {
+        if (!abortController.signal.aborted) {
+          setError(error);
+        }
+      }
+    };
+  
+    fetchData();
+  
+    return () => {
+      abortController.abort(); // Cancel the request when unmounting
+    };
+  }, []);
+  
   const navigate = useNavigate();
 
   const fetchResults = async () => {

@@ -29,7 +29,6 @@ export default function Navigation() {
   return (
     <div className={classes.root}>
       <NavigationDrawer />
-
     </div>
   );
 }

@@ -15,7 +15,7 @@ const Results=()=>{
   const [csvData,setCsvData] = useState([]);
 
   if(location.state == null){
-    navigate("/");
+    navigate("/menu");
   }
 
   const getClickableLink = (link) =>{
