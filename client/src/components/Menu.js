@@ -4,7 +4,7 @@ import LoadingButton from "@mui/lab/LoadingButton";
 import { Stack, TextField, Select, MenuItem, InputLabel, FormControl, colors } from "@mui/material";
 import getResults from "../util";
 import { useNavigate } from "react-router-dom";
-import backgroundImage from '/Users/sravyakaranam/Downloads/CSC510-FALL23-P27-Project2/client/src/components/slashwall.jpeg';
+import backgroundImage from './slashwall.jpeg';
 
 const thickerBorders = {
   borderWidth: '2px', // You can adjust this value to make the borders thicker
