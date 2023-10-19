@@ -2,18 +2,18 @@ import React from "react";
 import { AppBar, Toolbar, Typography, Button } from "@mui/material";
 import { Link } from "react-router-dom";
 import { routes } from "../configs/routes";
-import slashImage from "./slash.png"; //value to be changed
+import slashImage from "./Slash1.png"; //value to be changed
 import LogOut from "../components/LogOut";
 
 function NavigationBar() {
 
   const imageStyle = {
     position: 'relative',
-    width: '30px', // Adjust the width to your desired size
+    width: '120px', // Adjust the width to your desired size
     // Maintain the aspect ratio
     position: 'absolute', // Position the border element absolutely within the container
-    top: '18px',
-    left: '105px',
+    top: '15px',
+    left: '30px',
     right: '10px',
     bottom: 0,
     border: '2px', // Customize the border style as needed
@@ -29,9 +29,7 @@ function NavigationBar() {
   return (
     <AppBar position="static" style={appBarStyle}>
       <Toolbar>
-        <Typography variant="h6">
-          <img src={slashImage} alt="SLASH!!" style={imageStyle} />  SLASH!!
-        </Typography>
+          <img src={slashImage} alt="SLASH!!" style={imageStyle} />
         <div style={{ flexGrow: 1 }} />
         {visibleRoutes
           .filter((route) => route.name)

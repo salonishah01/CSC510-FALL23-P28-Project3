@@ -7,7 +7,12 @@ import {Button, darken} from '@mui/material';
 import {useNavigate} from 'react-router-dom';
 import Papa from 'papaparse';
 import CloudDownloadIcon from '@mui/icons-material/CloudDownload';
+import NavigationBar from '../header/NavigationDrawer';
 
+const customStyles = {
+  backgroundColor: '#b28900',
+  color: "white", // Text color
+};
 
 const Results=()=>{
   const location = useLocation();
@@ -92,10 +97,12 @@ const Results=()=>{
 
   return(
     <div>
+      <NavigationBar />
       {csvData && (
        <div style={{paddingLeft:"45%",paddingTop:"15px"}}>
          <Button
                 startIcon={<CloudDownloadIcon/>}
+                style={customStyles}
                 onClick={handleDownloadCSV}
                 variant="contained" 
          >
