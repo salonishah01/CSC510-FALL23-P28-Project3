@@ -188,8 +188,9 @@ npm run start
 
 ## :bulb: Use Case
 
-- **_Students_**: Students coming to university are generally on a budget and time constraint and generally spend hours wasting time to search for products on Websites. Slash is the perfect tool for these students that slashes all the unnecessary details on a website and helps them get prices for a product across multiple websites.Make the most of this tool in the upcoming Black Friday Sale.
+- **_Students_**: Students coming to university are generally on a budget and time constraint and generally spend hours wasting time to search for products on Websites. Slash is the perfect tool for these students that slashes all the unnecessary details on a website and helps them get prices for a product across multiple websites.Users can compare prices for specific products across multiple e-commerce platforms, helping them make informed purchasing decisions. Make the most of this tool in the upcoming Black Friday Sale.
 - **_Data Analysts_**: Finding data for any project is one of the most tedious job for a data analyst, and the datasets found might not be the most recent one. Using slash, they can create their own dataset in real time and format it as per their needs so that they can focus on what is actually inportant.
+- **_Market Analysts_**: Businesses and market analysts can use the website's data to gain insights into market trends, consumer behavior, and competitive pricing. Companies can perform competitive analysis by comparing their product offerings and pricing to those of competitors on different e-commerce platforms.
 
 ## :file_cabinet: API
 
@@ -227,11 +228,11 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 
 ## :page_facing_up: Why
 
-- In a market where we are spoilt for choices, we often look for the best deals.
-- The ubiquity of internet access has leveled the retail playing field, making it easy for individuals and businesses to sell products without geographic limitation. In 2020, U.S. e-commerce sales, receiving a boost due to the COVID-19 pandemic, grew 44% and represented more than 21% of total retail sales, according to e-commerce information source Internet Retailer.
-- The growth of e-commerce has not only changed the way customers shop, but also their expectations of how brands approach customer service, personalize communications, and provide customers choices.
-- E-commerce market has prompted cut throat competition amongst dealers, which is discernable through the price patterns for products of major market players. Price cuts are somewhat of a norm now and getting the best deal for your money can sometimes be a hassle (even while online shopping).
-- This is what Slash aims to reduce by giving you an easy to use, all in one place solution for finding the best deals for your products that major market dealers have to offer!
+- In today's online marketplace, consumers are presented with an overwhelming array of options. The sheer abundance of products and sellers can make it challenging to find the best deals. Slash addresses this challenge by streamlining the deal-finding process.
+- The widespread availability of internet access has revolutionized retail, enabling individuals and businesses to sell products globally. This digital transformation has leveled the playing field, making it possible for businesses of all sizes to reach a global audience.
+- The e-commerce sector has experienced remarkable growth, accelerated further by events like the COVID-19 pandemic. In 2020, U.S. e-commerce sales surged by 44%, accounting for over 21% of total retail sales. This growth highlights the significance of e-commerce in modern consumer behavior.
+- The e-commerce landscape is marked by intense competition among dealers and market players. This competition is evident in price patterns, where price cuts have become commonplace. However, navigating these price cuts and finding the best deals can be a daunting task, even in the realm of online shopping.
+- Slash's goal is to overcome this challenge by providing a user-friendly, all-encompassing solution for discovering the finest product deals offered by major market retailers.
 - Slash in its current form is for students who wish to get the best deals out of every e-commerce site and can be used by anyone who is willing to develop an application that consumes these web APIs.
 - Future scope includes anything from a web application with a frontend or any Android or IOS application that utilises these Web APIs at their backend. Anyone can build their own custom application on top of these web APIs.
 
