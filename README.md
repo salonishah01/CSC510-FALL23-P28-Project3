@@ -30,10 +30,10 @@ Slash is an open-source web framework that makes use of FastAPI to scrape the be
 
 We have added a lot of new features to slash in our Phase-II.
 
-1. A web interface for users to interact with the application in a more native way.
-2. Charts and graphs for better visualization of the results.
-3. Analysis for price prediction of products.
-4. Analysis for variety count of products per e-commerce store.
+1. A login page has been implemented to facilitate user authentication.
+2. A visually appealing user interface (UI) has been designed and integrated.
+3. Users can download CSV files directly from the results page.
+4. Progressive Web Application (PWA) feature has been successfully implemented, enhancing the web experience for users.
 
 ---
 
