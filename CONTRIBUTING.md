@@ -47,8 +47,8 @@ Enhancement suggestions are tracked as GitHub issues. Create an issue on that re
 
 ## 🙇 Pull Requests
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Update the [README.md](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md) with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the [README.md](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md) to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
+2. Update the [README.md](https://github.com/ameghana/CSC510-FALL23-P27-Project2/blob/main/README.md) with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+3. Increase the version numbers in any examples files and the [README.md](https://github.com/ameghana/CSC510-FALL23-P27-Project2/blob/main/README.md) to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
 4. After submitting your PR, the first thing you would want to do will be a self review. Barring special circumstances, maintainers will not review PRs until all checks pass (Travis, AppVeyor, etc).
 5. One or more maintainers will use GitHub's review feature to review your PR.
 6. If the maintainer asks for any changes, edit your changes, push, and ask for another review. Additional tags (such as needs-tests) will be added depending on the review.
