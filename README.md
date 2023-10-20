@@ -26,9 +26,9 @@ Slash is an open-source web framework that makes use of FastAPI to scrape the be
 
 ---
 
-## :rocket: Improvements over Phase-II
+## :rocket: Improvements in Phase-II
 
-We have added a lot of new features to slash in our Phase-III.
+We have added a lot of new features to slash in our Phase-II.
 
 1. A web interface for users to interact with the application in a more native way.
 2. Charts and graphs for better visualization of the results.
