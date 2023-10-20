@@ -60,9 +60,17 @@ We have added a lot of new features to slash in our Phase-II.
 
 ---
 
-## :movie_camera: Checkout our video
+## :movie_camera: Login/Log out
 
-<p align="center"><img width="700" src="./assets/SE_Project2_Team27_EnhancementsDemo-2.gif"></p>
+<p align="center"><img width="700" src="./assets/Slash%20Demo%20Login%20Logout.gif"></p>
+
+## :movie_camera: Progressive Web-Application
+
+<p align="center"><img width="700" src="./assets/Slash%20Demo%20PWA.gif"></p>
+
+## :movie_camera: Results
+
+<p align="center"><img width="700" src="./assets/Slash%20Demo%20Results.gif"></p>
 
 ---
 
