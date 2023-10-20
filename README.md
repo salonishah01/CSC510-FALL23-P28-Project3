@@ -62,7 +62,7 @@ We have added a lot of new features to slash in our Phase-II.
 
 ## :movie_camera: Checkout our video
 
-<p align="center"><img width="700" src="./assets/SE_Project2_Team27_EnhancementsDemo.gif"></p>
+<p align="center"><img width="700" src="./assets/SE_Project2_Team27_EnhancementsDemo-2.gif"></p>
 
 ---
 
