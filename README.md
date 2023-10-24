@@ -247,8 +247,7 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 ## :golf: Future Roadmap
 
 - Host website on a public server so customers can use it
-- Add login feature to store user history to provide features like bookmarking, price drop alerts and many more.
-- Our API can be used by end users such as developers who are tech-savvy individuals looking to get a one stop solution for web scraping ecommerce websites such as Amazon, Target, Ebay,etc along with API access to multiple ecommerce websites. It'll be available directly for access to people without having to dive deep into the code.
+- Add feature to store user history to provide features like bookmarking, price drop alerts and many more.
 - An iOS or Android application.
 - Add reviews to the products
 
