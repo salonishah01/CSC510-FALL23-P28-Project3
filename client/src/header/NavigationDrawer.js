@@ -24,7 +24,7 @@ function NavigationBar() {
     backgroundColor: '#83604B', // Change the background color to your desired color
   };
 
-  const visibleRoutes = routes.filter((route) => route.name).slice(0, 3);
+  const visibleRoutes = routes.filter((route) => route.name).slice(0, 2);
 
   return (
     <AppBar position="static" style={appBarStyle}>
