@@ -26,9 +26,22 @@ Slash is an open-source web framework that makes use of FastAPI to scrape the be
 
 ---
 
-## :rocket: Improvements in Phase-II
+## :rocket: DELTA : Enhacements in PHASE III from Phase-II
 
 We have added a lot of new features to slash in our Phase-II.
+
+1. Improved the application's UI to enhance user experience and deliver a visually appealing design.
+2. Established a new database to streamline user registration processes.
+3. Employed JSON Web Tokens (JWT) for user authentication.
+4. Introducing the Watchlist Feature: Users now have the ability to create and oversee watchlists for monitoring the prices of specific items.
+5. Implemented a scheduler to routinely monitor the prices of items on users' watchlists.
+6. Users receive email notifications when the price of an item in their watchlist decreases.
+
+---
+
+---
+
+## :rocket: Features Phase-II
 
 1. A login page has been implemented to facilitate user authentication.
 2. A visually appealing user interface (UI) has been designed and integrated.
@@ -247,18 +260,23 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 ## :golf: Future Roadmap
 
 - Host website on a public server so customers can use it
-- Add feature to store user history to provide features like bookmarking, price drop alerts and many more.
-- An iOS or Android application.
-- Add reviews to the products
+- Scrapping from all E-commerce websites
+- Real-Time updates using Websocket or Server-Sent Events(SSE) to provide users with immediate notifications when price drop occurs websites
+- Third Party authentication using gmail, outlook
+- Forget password can be implemented in the existing UI
+- Graph functionality to be included
+- Database improvisation
+- Implement option to sort by rating
+
 
 # Team Members
 
-## Phase 2 Team Members
+## Phase 3 Team Members
 
-- [Meghana Chowdary Ainampudi](https://github.com/ameghana)
-- [Sai Abhigna Tummala](https://github.com/abhigna98)
-- [Sravya Karanam](https://github.com/SreeKaranam)
-- [Sucharitha Nadendla](https://github.com/Nsucharitha)
+- [Saloni Shah](https://github.com/salonishah01)
+- [Romil Shah](https://github.com/romil2807)
+- [Sahil Changlani](https://github.com/sahilchanglani)
+- [Rushil Vegada](https://github.com/rushilv20)
 
 ## :email: Support
 
@@ -266,4 +284,4 @@ For any queries and help, please reach out to us at: csc510se.p27@gmail.com
 
 ## Demo video
 
-[Phase-2 Enhancements Demo Video](https://www.youtube.com/watch?v=9n0M4fkaHMc)
+[Phase-3 Enhancements Demo Video] - add video link here
