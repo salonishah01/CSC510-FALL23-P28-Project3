@@ -1,0 +1,17 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Sudalaimuthu Pandian"
+    given-names: "Bala Logesh"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Sarvanan"
+    given-names: "Ratish Kumar"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Yelchuri"
+    given-names: "Sahana"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Deen Dayal"
+    given-names: "Vengatesh"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 2.0.0
+date-released: 2023-10-19
