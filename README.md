@@ -219,9 +219,9 @@ npm run start
 
 ## :bulb: Use Case
 
-- **_Students_**: Students coming to university are generally on a budget and time constraint and generally spend hours wasting time to search for products on Websites. Slash is the perfect tool for these students that slashes all the unnecessary details on a website and helps them get prices for a product across multiple websites.Users can compare prices for specific products across multiple e-commerce platforms, helping them make informed purchasing decisions. Make the most of this tool in the upcoming Black Friday Sale.
-- **_Data Analysts_**: Finding data for any project is one of the most tedious job for a data analyst, and the datasets found might not be the most recent one. Using slash, they can create their own dataset in real time and format it as per their needs so that they can focus on what is actually inportant.
-- **_Market Analysts_**: Businesses and market analysts can use the website's data to gain insights into market trends, consumer behavior, and competitive pricing. Companies can perform competitive analysis by comparing their product offerings and pricing to those of competitors on different e-commerce platforms.
+- **_Students_**: As university-bound students often grapple with tight budgets and time constraints, spending hours scouring various websites for products becomes a daunting task. Enter Slash, the perfect tool tailored for students, adept at trimming away unnecessary details on websites. By swiftly gathering product prices across multiple platforms, Slash empowers students to make informed purchasing decisions. This tool is especially invaluable during crucial events like the upcoming Black Friday sale, where time-sensitive deals can be efficiently explored and capitalized upon.
+- **_Data Analysts_**: The life of a data analyst is often marked by the arduous task of sourcing relevant data for projects, compounded by the challenge of obtaining the most recent datasets. Slash serves as a game-changer for data analysts, providing them with the capability to create real-time datasets formatted to their specific needs. This not only accelerates the data-gathering process but also allows analysts to concentrate on the truly significant aspects of their projects, free from the constraints of outdated information.
+- **_Market Analysts_**: In the competitive landscape of business, market analysts seek every advantage to gain insights into market trends, consumer behavior, and competitive pricing. Slash proves invaluable in this context, offering a treasure trove of website data for businesses and analysts. This data facilitates a comprehensive competitive analysis, empowering companies to benchmark their product offerings and pricing against competitors across diverse e-commerce platforms. With Slash, market analysts can stay ahead of the curve, informed by real-time market dynamics.
 
 ## :file_cabinet: API
 
@@ -259,23 +259,22 @@ Wrapper API to fetch slash scrape results. This API provides a one-step solution
 
 ## :page_facing_up: Why
 
-- In today's online marketplace, consumers are presented with an overwhelming array of options. The sheer abundance of products and sellers can make it challenging to find the best deals. Slash addresses this challenge by streamlining the deal-finding process.
-- The widespread availability of internet access has revolutionized retail, enabling individuals and businesses to sell products globally. This digital transformation has leveled the playing field, making it possible for businesses of all sizes to reach a global audience.
-- The e-commerce sector has experienced remarkable growth, accelerated further by events like the COVID-19 pandemic. In 2020, U.S. e-commerce sales surged by 44%, accounting for over 21% of total retail sales. This growth highlights the significance of e-commerce in modern consumer behavior.
-- The e-commerce landscape is marked by intense competition among dealers and market players. This competition is evident in price patterns, where price cuts have become commonplace. However, navigating these price cuts and finding the best deals can be a daunting task, even in the realm of online shopping.
-- Slash's goal is to overcome this challenge by providing a user-friendly, all-encompassing solution for discovering the finest product deals offered by major market retailers.
-- Slash in its current form is for students who wish to get the best deals out of every e-commerce site and can be used by anyone who is willing to develop an application that consumes these web APIs.
-- Future scope includes anything from a web application with a frontend or any Android or IOS application that utilises these Web APIs at their backend. Anyone can build their own custom application on top of these web APIs.
+- In the dynamic landscape of today's online marketplace, consumers are confronted with an overwhelming array of options. The vast assortment of products and sellers makes it increasingly challenging to pinpoint the best deals. Recognizing this hurdle, Slash steps in to streamline the deal-finding process, providing users with a simplified and efficient solution.
+- The evolution of internet accessibility has revolutionized retail, allowing both individuals and businesses to engage in global product sales. This digital transformation has democratized the market, enabling businesses of all sizes to reach a global audience and compete on a more level playing field.
+- The e-commerce sector has witnessed unprecedented growth, further accelerated by events such as the COVID-19 pandemic. In 2020, U.S. e-commerce sales experienced a staggering 44% surge, constituting over 21% of total retail sales. This surge underscores the pivotal role of e-commerce in shaping modern consumer behavior.
+- Intense competition characterizes the e-commerce landscape, notably in price dynamics where frequent price cuts are commonplace. However, navigating through these price fluctuations and identifying the most lucrative deals can be a daunting task, even within the realm of online shopping.
+- Slash aims to tackle this challenge head-on by presenting a user-friendly, all-encompassing solution for uncovering the finest product deals offered by major market retailers. Currently tailored for students seeking optimal deals across various e-commerce sites, Slash is adaptable for anyone interested in developing an application that consumes these web APIs.
+- Looking ahead, the future scope of Slash extends beyond its current form. Envisage a web application with a user-friendly frontend or the potential for Android or iOS applications utilizing these web APIs in the backend. This opens the door for anyone to build their custom applications atop these versatile web APIs, expanding the horizons of deal-finding possibilities.
 
 ## :golf: Future Roadmap
 
-- Host website on a public server so customers can use it
-- Scrapping from all E-commerce websites
-- Real-Time updates using Websocket or Server-Sent Events(SSE) to provide users with immediate notifications when price drop occurs websites
-- Third Party authentication using gmail, outlook
-- Forget password can be implemented in the existing UI
-- Database improvisation
-- Implement option to sort by rating
+- Deploy the website on a public server to ensure widespread accessibility, allowing customers to seamlessly utilize its features.
+- Extend web scraping capabilities to encompass data extraction from a comprehensive range of E-commerce websites, providing users with a broader spectrum of options and deals.
+- Enable real-time updates through advanced technologies such as WebSockets or Server-Sent Events (SSE). This ensures users receive immediate notifications when prices drop on their selected websites, enhancing their ability to capitalize on time-sensitive deals.
+- Integrate third-party authentication mechanisms, including Gmail and Outlook, to provide users with a seamless and secure login experience, leveraging existing trusted accounts.
+- Enhance user experience by implementing a "Forgot Password" feature directly within the existing UI, streamlining the recovery process and ensuring users can regain access to their accounts effortlessly.
+- Optimize the database infrastructure to facilitate improved performance, scalability, and data management, ensuring a seamless and responsive user experience.
+- Introduce a sorting option based on user ratings, empowering users to prioritize and explore products based on the experiences and feedback of other customers, enhancing their decision-making process.
 
 ## Team Members
 
