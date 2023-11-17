@@ -2,23 +2,20 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/704785726.svg)](https://zenodo.org/badge/latestdoi/704785726)
-[![GitHub issues](https://img.shields.io/github/issues/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub issues](https://img.shields.io/github/issues/salonishah01/CSC510-FALL23-P28-Project3)](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/salonishah01/CSC510-FALL23-P28-Project3)](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/issues?q=is%3Aissue+is%3Aclosed)
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 [![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
-[![GitHub contributors](https://img.shields.io/github/contributors/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/salonishah01/CSC510-FALL23-P28-Project3)](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/graphs/contributors)
 ![GitHub all releases](https://img.shields.io/github/downloads/ameghana/CSC510-FALL23-P27-Project2/total)
 [![GitHub Discussions](https://img.shields.io/github/discussions/ameghana/CSC510-FALL23-P27-Project2)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/discussions)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Discord](https://img.shields.io/discord/1161405668079698112)](https://github.com/ameghana/CSC510-FALL23-P27-Project2/blob/main/docs/SE%20Discord%20Chat%20Screenshot.png)
-![GitHub forks](https://img.shields.io/github/forks/ameghana/CSC510-FALL23-P27-Project2)
 [![codecov](https://codecov.io/gh/NCSU-Group7-SE2021/slash/branch/main/graph/badge.svg?token=E9TCZQ6NGF)](https://codecov.io/gh/NCSU-Group7-SE2021/slash)
 
-Are you a fan of shopping? Are you on the lookout for fantastic online shopping deals? Look no further because Slash is your go-to destination for discovering the greatest deals!
+Are you a fan of shopping? Are you on the lookout for fantastic online shopping deals? Look no further, because Slash is your go-to destination for discovering the greatest deals!
 
-Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter,organise and download search results.It also provides visualisation in the form of charts and graphs.
+Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites, such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter, organize, and download search results.It also provides visualization in the form of charts and graphs.
 
 - **Fast**: Slash lets you save more than 50% of your time by swiftly comparing deals from various websites in just seconds.
 - **Easy**: Slash introduces user-friendly public APIs that make it a breeze to filter, sort, and search through search results.
