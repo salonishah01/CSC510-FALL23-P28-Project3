@@ -13,39 +13,50 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![codecov](https://codecov.io/gh/NCSU-Group7-SE2021/slash/branch/main/graph/badge.svg?token=E9TCZQ6NGF)](https://codecov.io/gh/NCSU-Group7-SE2021/slash)
 
-Are you a fan of shopping? Are you on the lookout for fantastic online shopping deals? Look no further, because Slash is your go-to destination for discovering the greatest deals!
+# Slash - Ultimate Shopping Companion 🛒✨🚀
 
-Slash is an open-source web framework that makes use of FastAPI to scrape the best deals from various e-commerce websites, such as eBay, Amazon, BestBuy, Costco, Target, and Walmart. Slash makes it easy for users to filter, organize, and download search results.It also provides visualization in the form of charts and graphs.
+## Unleash the Power of Slash for Ultimate Shopping Discoveries!
 
-- **Fast**: Slash lets you save more than 50% of your time by swiftly comparing deals from various websites in just seconds.
-- **Easy**: Slash introduces user-friendly public APIs that make it a breeze to filter, sort, and search through search results.
-- **Powerful**: Generates JSON responses that are highly customizable to achieve the desired output.
+Are you tired of endless scrolling through e-commerce sites, hoping for the perfect deal? Say goodbye to the hassle and welcome Slash, your ultimate companion for discovering incredible online shopping deals! Slash isn't just a web framework; it's a game-changer in the world of online shopping, leveraging FastAPI to scrape and present the best deals from eBay, Amazon, BestBuy, Costco, Target, and Walmart.
 
----
+## Why Choose Slash?
 
-## :rocket: DELTA : Enhacements in PHASE III from Phase-II
+- **Lightning-Fast Comparison:** Revolutionize your deal-hunting experience. Compare deals from different websites in seconds, saving valuable time!
 
-We have added a lot of new features to slash in our Phase-II.
+- **Effortless Navigation:** User-friendly public APIs make it a breeze to filter, sort, and search through results, ensuring you find exactly what you're looking for.
 
-1. Improved the application's UI to enhance user experience and deliver a visually appealing design.
-2. Established a new database to streamline user registration processes.
-3. Employed JSON Web Tokens (JWT) for user authentication.
-4. Introducing the Watchlist Feature: Users now have the ability to create and oversee watchlists for monitoring the prices of specific items.
-5. Implemented a scheduler to routinely monitor the prices of items on users' watchlists.
-6. Users receive email notifications when the price of an item in their watchlist decreases.
+- **Tailored Outputs:** Slash isn't just about finding deals; it's about finding the right deals for you. Generate highly customizable JSON responses to fit your unique preferences.
 
----
+## 🚀 DELTA: Unveiling Phase III from Phase II
 
----
+Get ready for a shopping experience like never before with Phase III enhancements:
 
-## :rocket: Features Phase-II
+- **Revamped UI:** Our commitment to an enhanced user experience is evident in the redesigned, visually appealing application interface.
 
-1. A login page has been implemented to facilitate user authentication.
-2. A visually appealing user interface (UI) has been designed and integrated.
-3. Users can download CSV files directly from the results page.
-4. Progressive Web Application (PWA) feature has been successfully implemented, enhancing the web experience for users.
+- **Streamlined Registration:** Say goodbye to registration headaches. We've introduced a new database to streamline the user registration process.
 
----
+- **Fortified Security:** Your security is our priority. Slash now employs JSON Web Tokens (JWT) for robust and secure user authentication.
+
+- **Watchlist Feature:** Introducing a revolutionary feature! Create watchlists to monitor the prices of specific items, ensuring you never miss a deal.
+
+- **Automated Monitoring:** We've implemented a scheduler to automatically monitor the prices of items on your watchlists, keeping you informed in real-time.
+
+- **Smart Notifications:** Slash goes the extra mile by sending you email notifications when the price of an item in your watchlist drops.
+
+## 🚀 Features Unveiled in Phase II
+
+- **Seamless Authentication:** Enjoy a secure shopping experience with the implementation of a dedicated login page for user authentication.
+
+- **Aesthetically Pleasing UI:** Immerse yourself in a visually appealing user interface, ensuring an enjoyable and intuitive browsing experience.
+
+- **CSV Download:** Slash empowers you further by enabling direct CSV file downloads from the results page, making data accessibility a breeze.
+
+- **Progressive Web Application (PWA):** Embrace the latest web technologies. Slash is now a progressive web application for an enhanced and responsive web experience.
+
+## Elevate Your Shopping Game with Slash!
+Get ready to redefine yur online shopping experience.
+Slash isn't just a tool; its your shopping ally, your deal-finder, and your gateway to a world of unbeatable offers.
+Dive in and let the savings begin!🛒✨🚀
 
 <p align="center">
   <a href="#movie_camera-checkout-our-video">Checkout our video</a>
@@ -70,6 +81,8 @@ We have added a lot of new features to slash in our Phase-II.
 
 ---
 
+## :rocket: Checkout our video
+
 ## :movie_camera: Login/Log out
 
 <p align="center"><img width="700" src="./assets/Slash%20Demo%20Login%20Logout.gif"></p>
@@ -87,36 +100,36 @@ We have added a lot of new features to slash in our Phase-II.
 ## :rocket: Installation
 
 ## 1. Python Virtual Environment Setup (Windows)
-We need the python 3.9 version, hence we need to setup a virtual environment(venv). Following are the steps to setup venv:
+We need the Python 3.9 version; hence, we need to setup a virtual environment (venv). Following are the steps to setup venv:
 
 ```
 Install python 3.9 #installing python
 py --list #to view all versions on python present
-py -3.9 -m venv {virtual environment name} #creating a virtual environment
+py -3.9 -m venv {virtual environment name} creating a virtual environment
 cd {virtual environment name} #navigating to virtual environment
 Scripts\activate #activating virtual environment
 ```
 
 ## 2. Python Virtual Environment Setup (Mac OS)
-1.We need the python 3.9 version, Follow the below steps for setup 1)Install Homebrew:
+1. We need the Python 3.9 version. Follow the below steps for setup: 1) Install Homebrew:
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-2.Now install PyEnv to switch between different version of python
+2. Now install PyEnv to switch between different version of python
 
 ```
 brew install pyenv
 ```
 
-3.Now to install required version of python using PyEnv, run this command:
+3. Now, to install the required version of Python using PyEnv, run this command:
 
 ```
 pyenv install 3.9.2
 ```
 
-4.To SetUp MacOS path for pyEnv in ZSH or OhMyZSH
+4. To set up the MacOS path for pyEnv in ZSH or OhMyZSH
 
 ```
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
@@ -130,36 +143,36 @@ pyenv versions
 1. Clone the Github repository to a desired location on your computer. You will need [git](https://git-scm.com/) to be preinstalled on your machine. Once the repository is cloned, you will then `cd` into the local repository.
 
 ```
-git clone https://github.com/ameghana/CSC510-FALL23-P27-Project2.git
-cd CSC510-FALL23-P27-Project2
+git clone https://github.com/salonishah01/CSC510-FALL23-P28-Project3.git
+cd CSC510-FALL23-P28-Project3
 ```
 
-2. All the python requirements of the project are listed in the `requirements.txt` file. Use pip to install all of those.
+2. All the Python requirements of the project are listed in the `requirements.txt` file. Use pip to install all of those.
 
 ```
 pip3 install -r requirements.txt
 ```
 
 ## 4. Node Setup for Front-end
-1. For the frontend setup ensure that [Node](https://nodejs.org/en/) is preinstalled. 
+1. For the frontend setup, ensure that [Node](https://nodejs.org/en/) is preinstalled. 
 
 ```
-Install node 18.17.1 #installing older version of node.js
+Install node 18.17.1 by installing older version of node.js
 ```
 
-2. All the node requirements are listed in `client/package.json` file. Use npm to install all of those.
+2. All the node requirements are listed in the `client/package.json` file. Use npm to install all of those.
 
 ```
 cd client
 npm install
 ```
-Here if you are facing an error
+If you are facing an error,
 
 ```
 ERROR: upstream dependency conflict
 ```
 
-To resolve, the below command is executed
+To resolve this, the below command is executed
 
 ```
 npm install --force
@@ -171,14 +184,14 @@ You may also encounter this issue:
 ImportError: cannot import name 'NotRequired' from 'typing_extensions'
 ```
 
-To resolve that, We have to execute: 
+To resolve that, we have to execute:
 
 ```
-pip install typing_extensions==4.7.1 –upgrade
+pip install typing_extensions==4.7.1 -upgrade
 ```
 
 ## 5. Run the Application
-1.After installing all the prerequisites, navigate to the `src` directory using the `cd` command. Once you are inside the `src` directory, execute the Python command to launch the `main.py` file.
+1. After installing all the prerequisites, navigate to the `src` directory using the `cd` command. Once you are inside the `src` directory, execute the Python command to launch the `main.py` file.
 
 ```
 cd src
@@ -220,13 +233,13 @@ Documentation can be accessed anytime via the below link.
 
 ## Search Items Api
 
-Wrapper API to fetch slash scrape results. This API provides a one step solution to access scrape results from all our integrated websites.
+Wrapper API to fetch slash scrape results. This API provides a one-step solution to access scrape results from all our integrated websites.
 
     https://slash-app-staging.azurewebsites.net/{site}/{item_name}
 
 **Required parameters:**
 
-- **site**: _az_ for amazon; _wm_ for walmart; _eb_ for ebay; _cc_ for costco; _tg_ for target and _bb_ for bustbuy. Alternatively '_all_' in site can be used to get results for all sites.
+- **site**: _az_ for amazon; _wm_ for walmart; _eb_ for ebay; _cc_ for costco; _tg_ for target; and _bb_ for bustbuy. Alternatively, '_all_' in site can be used to get results for all sites.
 
 - **item_name**: items to be searched by slash web api; _examples below_
 
@@ -261,12 +274,10 @@ Wrapper API to fetch slash scrape results. This API provides a one step solution
 - Real-Time updates using Websocket or Server-Sent Events(SSE) to provide users with immediate notifications when price drop occurs websites
 - Third Party authentication using gmail, outlook
 - Forget password can be implemented in the existing UI
-- Graph functionality to be included
 - Database improvisation
 - Implement option to sort by rating
 
-
-# Team Members
+## Team Members
 
 ## Phase 3 Team Members
 
