@@ -1,88 +1,79 @@
-## 📋 Contributing to Slash !
+# 🚀 Join the Slash Revolution!
 
-Thank you so much for taking an interest in contributing! We are delighted when people want to contribute to Slash! There are many ways to contribute to this project!
+Thanks a million for your interest in contributing to Slash! We're thrilled to have you on board, and there are countless ways you can make a difference in this exciting project.
 
-## 🤔 What should I know before I get started?
+## 🤓 What's Good to Know Before You Dive In?
 
-1. Check [README.md](https://github.com/Bala-Logesh/Se23-Slash-61/blob/main/README.md)
-2. Check [requirements.txt](https://github.com/Bala-Logesh/Se23-Slash-61/blob/main/requirements.txt)
-3. Check [setup.py](https://github.com/Bala-Logesh/Se23-Slash-61/blob/main/setup.py)
-4. Check [issues](https://github.com/Bala-Logesh/Se23-Slash-61/issues).
+1. Take a peek at the [README.md](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/README.md).
+2. Glance through [requirements.txt](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/Project%203/requirements.txt).
+3. Eye the details in [setup.py](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/Project%203/setup.py).
+4. Explore the realm of possibilities in [issues](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/issues).
 
-Understand the current and future scope.
+Understand where we're at and where we're headed.
 
-## 🪲 Reporting Bugs
-This section guides you through submitting a bug report for this repository. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports. Before creating bug reports, please perform a cursory search to see if the problem has already been reported. If it has and the issue is still open, add a comment to the existing issue instead of opening a new one. Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
+## 🐞 Reporting Bugs
+Let's squash those bugs together! Follow this guide to submit a bug report that helps us understand and fix the issue promptly.
 
-### How Do I Submit A (Good) Bug Report?
+### How to Submit a Bug Report?
 
-Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
+Bugs are like ninjas—we need to spot them! Here's how you can help us:
+* Craft a clear and catchy title for the issue.
+* Walk us through the steps to recreate the bug with all the juicy details. Tell us about your OS, Python version, and any environment configurations.
+* Show us examples—links, snippets, anything that paints the picture.
+* Describe the observed behavior and what's bugging you about it.
+* Envision the ideal behavior and tell us why it's essential.
+* If it's a performance or memory hiccup, spill the details on any encountered errors.
 
-Explain the problem and include additional details to help a developer reproduce the problem:
-*	Use a clear and descriptive title for the issue to identify the problem.
-*	Describe the exact steps which reproduce the problem in as many details as possible. Along with it, provide the details regarding the name and version of OS, Python version, configuration of the environment, if used any.
-*	Provide specific examples to demonstrate the steps. Include links to files or GitHub projects, or copy/paste able snippets, which you use in those examples. If you're providing snippets in the issue, use Markdown code blocks.
-*	Describe the behavior you observed after following the steps and point out what exactly is the problem with that behavior.
-*	Explain which behavior you expected to see instead and why.
-*	If the problem is related to performance or memory, include details of the errors encountered with your report.
-*	Can you reliably reproduce the issue? If not, provide details about how often the problem happens and under which conditions it normally happens.
+### Before You Hit Submit
 
-### Before Submitting A Bug Report
+Check if someone else beat you to the punch. If there's a similar issue, drop a comment instead of starting a new one. If it's closed but relevant, open a fresh issue with a link to the original.
 
-Please check existing bug reports instead of opening a new one. There is a possibility that there are fixes already posted for bugs. If not, you are welcome to submit a bug report and we will look into it as soon as possible.
+## 🚀 Suggesting Enhancements and New Features
 
-## 📝 Suggesting Enhancements and New features
+Ready to make Slash even more awesome? Here's how you can suggest enhancements:
 
-This section guides you through submitting an enhancement suggestion for this project:
+### How to Suggest Enhancements?
 
-### How Do I Submit A (Good) Enhancement Suggestion?
+Enhancements are like fireworks—bright and explosive! Share your thoughts:
+* Serve up a suggestion with a title that pops.
+* Break down the enhancement step by step, with examples and code snippets.
+* Describe the current behavior and why it needs an upgrade.
+* Don't forget about documentation—suggestions here are golden.
+* Got a groundbreaking new feature in mind? Spill the beans!
 
-Enhancement suggestions are tracked as GitHub issues. Create an issue on that repository with an enhancement or feature tag and provide the following information:
-*	Use a clear and descriptive title for the issue to identify the suggestion.
-*	Provide a step-by-step description of the suggested enhancement in as many details as possible.
-*	Provide specific examples to demonstrate the steps. Include copy/paste able snippets which you use in those examples, as Markdown code blocks.
-*	Describe the current behavior and explain which behavior you expected to see instead and why.
-*   Documentation is an integral part of our repository. Submit updates and improvements to documentations.
-*   Share with us any new exciting feature you might have in mind.
+## 🙌 Pull Requests
+Ready to roll up your sleeves? Fantastic! Follow these steps to make your contribution a reality:
 
-## 🙇 Pull Requests
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Update the [README.md](https://github.com/Bala-Logesh/Se23-Slash-61/blob/main/README.md) with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the [README.md](https://github.com/Bala-Logesh/Se23-Slash-61/blob/main/README.md) to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
-4. After submitting your PR, the first thing you would want to do will be a self review. Barring special circumstances, maintainers will not review PRs until all checks pass (Travis, AppVeyor, etc).
-5. One or more maintainers will use GitHub's review feature to review your PR.
-6. If the maintainer asks for any changes, edit your changes, push, and ask for another review. Additional tags (such as needs-tests) will be added depending on the review.
-7. If the maintainer decides to pass on your PR, they will thank you for the contribution and explain why they won't be accepting the changes. That's ok! We still really appreciate you taking the time to do it, and we don't take that lightly.
-8. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+1. Clean up dependencies before the final build.
+2. Update [README.md](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/README.md) with the nitty-gritty details of your changes.
+3. Bump up version numbers—SemVer style!
+4. Self-review your masterpiece before submitting.
+5. Our maintainers will do their magic with GitHub's review feature.
+6. If tweaks are needed, make them, push, and ask for another review.
+7. Merge the PR once you have two other developers giving it a thumbs-up.
 
 ## 👒 Styleguides
 
 ### Git Commit Messages
-*	Use the present tense ("Add feature" not "Added feature")
-*	Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-*	Limit the first line to 72 characters or less
-*	Reference issues and pull requests liberally after the first line
-*	When only changing documentation, include [ci skip] in the commit title
+Let your committed messages dance to the rhythm:
+* Keep it present and imperative.
+* Stick to 72 characters or less for the first line.
+* Reference issues and pull requests—spread the love!
 
 ### Git Branching Naming Convention
-Not using appropriate naming conventions leads to confusion and complicates the code maintenance team. We can’t ignore Git best practices in branching naming conventions.
-
-- Main (main) is the default branch available in the Git repository. It should be stable all the time and won’t allow any direct check-in. You can only merge it after code review. All team members are responsible for keeping the master stable and up-to-date.
-
-- <b>Make sure the new branch you create follows proper naming conventions.</b>
+Branch names are the unsung heroes. Follow this melody:
 ```<author>-<date in (DD-MMMM) format>-<short-feature-description>```
-<br> E.g., rahil-6-sept-test-badge
-E.g., moksh-7-sept-web-scraping
-
-This method allows for easy tracking of different developers’ work and progress with additional systems.
+For example, rahil-6-sept-test-badge or moksh-7-sept-web-scraping.
 
 ## ✔️ Attribution
-These Contributing guidelines are adapted from the [Atom's](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) contributing guidelines.
+Props to [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) for the kickstart on these contributing guidelines.
 
-## 💻 Contributors
+## 💻 Meet the Maestros
 
-### Phase 2 Team Members
-* [Bala Logesh Sudalaimuthu Pandian](https://github.com/Bala*Logesh)
-* [Ratish Kumar Sarvanan](https://github.com/RatishkumarS)
-* [Sahana Yelchuri](https://github.com/SahanaYelchuri)
-* [Vengatesh Deen Dayal](https://github.com/vengatesh99)
+### Phase 3 Team Members
+- [Saloni Shah](https://github.com/salonishah01)
+- [Romil Shah](https://github.com/romil2807)
+- [Sahil Changlani](https://github.com/sahilchanglani)
+- [Rushil Vegada](https://github.com/rushilv20)
+
+Ready to leave your mark? Let's Slash it up! 🚀
