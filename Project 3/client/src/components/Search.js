@@ -48,7 +48,7 @@ function Search() {
 
   return (
     <Card>
-      <p className="form-header">Search to your heart's content</p>
+      <p className="form-header">Ready to Slash Prices? What Do You Want to Snag Today?</p>
       <br />
       {msg === "" && <p className="placeholder">Placeholder for messages</p>}
       {msg !== "" && <p className="error">{msg}</p>}

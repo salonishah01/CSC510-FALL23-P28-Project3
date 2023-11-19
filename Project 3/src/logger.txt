@@ -45,3 +45,14 @@ az query:mobile
 eb query:mobile
 all query:milk
 all query:milk
+all query:shoes
+az query:shoes
+wm query:shoes
+all query:shoes
+all query:laptop
+all query:shoes
+all query:laptop
+all query:laptop
+all query:mobile
+all query:mobile
+all query:charger

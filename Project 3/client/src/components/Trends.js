@@ -84,8 +84,9 @@ function Trends() {
               {
                 label: "Highest Prices",
                 data: highestPrices,
-                backgroundColor: "rgb(239, 236, 242)",
-                borderColor: "rgb(184, 176, 203)",
+                backgroundColor: "rgb(239, 236, 242)",// Replace with your desired background color
+                borderColor: "rgb(255, 0, 0)", // Replace with your desired border color
+
                 borderWidth: 2,
                 fill: false,
               },

@@ -30,7 +30,7 @@ export default function Navigation() {
     <nav className="navbar">
       <div className="nav-right">
         <Link to="/" className="title">
-          Slash
+          Slash: Unleash the Power of Savings!
         </Link>
 
         {isLoggedIn && (
