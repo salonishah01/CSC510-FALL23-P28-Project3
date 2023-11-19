@@ -83,17 +83,23 @@ Dive in and let the savings begin!🛒✨🚀
 
 ## :rocket: Checkout our video
 
-## :movie_camera: Login/Log out
+## Features in Phase 3"
 
-<p align="center"><img width="700" src="./assets/Slash%20Demo%20Login%20Logout.gif"></p>
+<p align="center"><img width="700" src="./assets/revamped%20UI.jpeg"></p>
 
-## :movie_camera: Progressive Web-Application
+<p align="center"><img width="700" src="./assets/Login.jpeg"></p>
 
-<p align="center"><img width="700" src="./assets/Slash%20Demo%20PWA.gif"></p>
+<p align="center"><img width="700" src="./assets/errorhandling.jpeg"></p>
 
-## :movie_camera: Results
+<p align="center"><img width="700" src="./assets/invalid cred.jpeg"></p>
 
-<p align="center"><img width="700" src="./assets/Slash%20Demo%20Results.gif"></p>
+<p align="center"><img width="700" src="./assets/results.jpeg"></p>
+
+<p align="center"><img width="700" src="./assets/trends.jpeg"></p>
+
+<p align="center"><img width="700" src="./assets/tracking.jpeg"></p>
+
+<p align="center"><img width="700" src="./assets/email.jpeg"></p>
 
 ---
 
