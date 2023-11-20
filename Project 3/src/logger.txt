@@ -56,3 +56,7 @@ all query:laptop
 all query:mobile
 all query:mobile
 all query:charger
+all query:laptop
+all query:laptop
+all query:laptop
+all query:laptop

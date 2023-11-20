@@ -1,11 +1,11 @@
 :root {
-  --bg-primary: #efecf6;
-  --bg-secondary: #ffffff;
-  --bg-tertiary: #b8b0cb;
+  --bg-primary: #ffdde1;   /* Light rose */
+  --bg-secondary: #ffffff; /* Light cream */
+  --bg-tertiary: #cc6699;  /* Lighter rose */
 
-  --text-primary: #131236;
-  --text-secondary: #00000080;
+  --text-primary: #330033;  /* Dark purple */
+  --text-secondary: #4d4d4d; /* Medium gray */
 
-  --text-success: green;
-  --text-error: red;
+  --text-success: #00cc99;  /* Teal green */
+  --text-error: #ff5050;    /* Coral red */
 }

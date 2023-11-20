@@ -4,4 +4,10 @@
 
 .chart-container {
     max-height: 600px;
+    border: 1px solid #ddd; /* Add a border for visual separation */
+    border-radius: 8px; /* Add rounded corners */
+    overflow: hidden; /* Hide overflow for a cleaner look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4); /* Add a subtle box shadow */
+    background-color: #f2ebf7; /* Light lavender background color */
 }
+
