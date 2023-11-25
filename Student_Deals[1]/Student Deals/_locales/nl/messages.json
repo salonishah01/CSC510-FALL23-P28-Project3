@@ -1,0 +1,112 @@
+{
+  "name": {
+    "message": "Student Beans"
+  },
+  "description": {
+    "message": "Studenten kunnen automatisch meldingen krijgen over beschikbare studentenkortingen!"
+  },
+  "m_no_discount": {
+    "message": "Sorry, er is geen korting beschikbaar"
+  },
+  "m_discount_available": {
+    "message": "Kijk eens! We hebben een studentenkorting voor je gevonden"
+  },
+  "m_visit_student_beans": {
+    "message": "Bezoek Student Beans en ontdek meer dan 750 studentenkortingen"
+  },
+  "m_at_brand": {
+    "message": "bij $BRAND$",
+    "placeholders": {
+      "brand": {
+        "content": "$1"
+      }
+    }
+  },
+  "a_go_to_student_beans": {
+    "message": "Ga naar Student Beans"
+  },
+  "a_get_discount": {
+    "message": "Korting ontvangen"
+  },
+  "d_united_kingdom": {
+    "message": "Verenigd Koninkrijk"
+  },
+  "d_united_states": {
+    "message": "Verenigde Staten"
+  },
+  "d_france": {
+    "message": "Frankrijk"
+  },
+  "d_germany": {
+    "message": "Duitsland"
+  },
+  "d_netherlands": {
+    "message": "Nederland"
+  },
+  "d_ireland": {
+    "message": "Ierland"
+  },
+  "d_spain": {
+    "message": "Spanje"
+  },
+  "d_italy": {
+    "message": "Italië"
+  },
+  "d_canada": {
+    "message": "Canada"
+  },
+  "d_australia": {
+    "message": "Australië"
+  },
+  "d_belgium": {
+    "message": "België"
+  },
+  "d_sweden": {
+    "message": "Zweden"
+  },
+  "d_denmark": {
+    "message": "Denemarken"
+  },
+  "d_austria": {
+    "message": "Oostenrijk"
+  },
+  "d_poland": {
+    "message": "Polen"
+  },
+  "d_new_zealand": {
+    "message": "Nieuw-Zeeland"
+  },
+  "d_china": {
+    "message": "China"
+  },
+  "m_we_have_found_offers": {
+    "message": "We hebben $COUNT$ aanbiedingen gevonden",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_we_have_found_offer": {
+    "message": "We hebben 1 aanbieding gevonden"
+  },
+  "m_student_discounts": {
+    "message": "$COUNT$ Studentenkortingen",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_student_discount": {
+    "message": "1 studentenkorting"
+  },
+  "m_for_anyone_to_use": {
+    "message": "$COUNT$ door iedereen te gebruiken",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  }
+}
