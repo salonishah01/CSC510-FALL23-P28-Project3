@@ -83,21 +83,35 @@ Dive in and let the savings begin!🛒✨🚀
 
 ## :rocket: Checkout our video
 
-## Features in Phase 3"
+## Features in Phase 3
+
+**Revamped UI**
 
 <p align="center"><img width="700" src="./assets/revamped%20UI.jpeg"></p>
 
+**Login**
+
 <p align="center"><img width="700" src="./assets/Login.jpeg"></p>
+
+**Error Handling**
 
 <p align="center"><img width="700" src="./assets/errorhandling.jpeg"></p>
 
 <p align="center"><img width="700" src="./assets/invalid cred.jpeg"></p>
 
+**Results**
+
 <p align="center"><img width="700" src="./assets/results.jpeg"></p>
+
+**Trends**
 
 <p align="center"><img width="700" src="./assets/trends.jpeg"></p>
 
+**Tracking**
+
 <p align="center"><img width="700" src="./assets/tracking.jpeg"></p>
+
+**Eamil Notification**
 
 <p align="center"><img width="700" src="./assets/email.jpeg"></p>
 
