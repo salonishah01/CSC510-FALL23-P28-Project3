@@ -17,7 +17,7 @@
 
 ## Unleash the Power of Slash for Ultimate Shopping Discoveries!
 
-Are you tired of endless scrolling through e-commerce sites, hoping for the perfect deal? Say goodbye to the hassle and welcome Slash, your ultimate companion for discovering incredible online shopping deals! Slash isn't just a web framework; it's a game-changer in the world of online shopping, leveraging FastAPI to scrape and present the best deals from eBay, Amazon, BestBuy, Costco, Target, and Walmart.
+Are you tired of endlessly scrolling through e-commerce sites, hoping for the perfect deal? Say goodbye to the hassle and welcome Slash, your ultimate companion for discovering incredible online shopping deals! Slash isn't just a web framework; it's a game-changer in the world of online shopping, leveraging FastAPI to scrape and present the best deals from eBay, Amazon, BestBuy, Costco, Target, and Walmart.
 
 ## Why Choose Slash?
 
@@ -41,7 +41,11 @@ Get ready for a shopping experience like never before with Phase III enhancement
 
 - **Automated Monitoring:** We've implemented a scheduler to automatically monitor the prices of items on your watchlists, keeping you informed in real-time.
 
-- **Smart Notifications:** Slash goes the extra mile by sending you email notifications when the price of an item in your watchlist drops.
+- **Smart Notifications:** Slash goes the extra mile by sending you email notifications when the price of an item on your watchlist drops.
+
+- **Chrome Extensions:**
+  1. **"Search Product"** is a robust browser extension that simplifies online shopping by enabling quick searches for products with lower prices, utilizing features like image-based searches, and providing a user-friendly interface for an efficient and economical shopping experience.
+  2. Never miss out on student discounts while shopping online with the **"Student Beans"** Chrome extension, which automatically alerts you to exclusive deals from thousands of brands, providing quick access to verified discount codes and enhancing the savings for university, college, and sixth form students."
 
 ## 🚀 Features Unveiled in Phase II
 
