@@ -1,0 +1,112 @@
+{
+  "name": {
+    "message": "Student Beans"
+  },
+  "description": {
+    "message": "Studenter kan få automatiska aviseringar om tillgängliga studentrabatter!"
+  },
+  "m_no_discount": {
+    "message": "Tyvärr, det finns ingen rabatt tillgänglig"
+  },
+  "m_discount_available": {
+    "message": "Kolla här! Vi har hittat en studentrabatt för dig"
+  },
+  "m_visit_student_beans": {
+    "message": "Gå in på Student Beans för att upptäcka mer än 750 studentrabatter"
+  },
+  "m_at_brand": {
+    "message": "hos $BRAND$",
+    "placeholders": {
+      "brand": {
+        "content": "$1"
+      }
+    }
+  },
+  "a_go_to_student_beans": {
+    "message": "Gå till Student Beans"
+  },
+  "a_get_discount": {
+    "message": "Få rabatt"
+  },
+  "d_united_kingdom": {
+    "message": "Storbritannien"
+  },
+  "d_united_states": {
+    "message": "USA"
+  },
+  "d_france": {
+    "message": "Frankrike"
+  },
+  "d_germany": {
+    "message": "Tyskland"
+  },
+  "d_netherlands": {
+    "message": "Nederländerna"
+  },
+  "d_ireland": {
+    "message": "Irland"
+  },
+  "d_spain": {
+    "message": "Spanien"
+  },
+  "d_italy": {
+    "message": "Italien"
+  },
+  "d_canada": {
+    "message": "Kanada"
+  },
+  "d_australia": {
+    "message": "Australien"
+  },
+  "d_belgium": {
+    "message": "Belgien"
+  },
+  "d_sweden": {
+    "message": "Sverige"
+  },
+  "d_denmark": {
+    "message": "Danmark"
+  },
+  "d_austria": {
+    "message": "Österrike"
+  },
+  "d_poland": {
+    "message": "Polen"
+  },
+  "d_new_zealand": {
+    "message": "Nya Zeeland"
+  },
+  "d_china": {
+    "message": "Kina"
+  },
+  "m_we_have_found_offers": {
+    "message": "Vi har hittat $COUNT$ erbjudanden",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_we_have_found_offer": {
+    "message": "Vi har hittat 1 erbjudande"
+  },
+  "m_student_discounts": {
+    "message": "$COUNT$ Studentrabatter",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_student_discount": {
+    "message": "1 studenterbjudande"
+  },
+  "m_for_anyone_to_use": {
+    "message": "$COUNT$ att användas av vem som helst",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  }
+}
