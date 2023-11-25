@@ -1,0 +1,17 @@
+{
+   "contextName": {
+      "message": "제품 검색"
+   },
+   "errorMsg": {
+      "message": "죄송합니다. 이 이미지를 로드할 수 없습니다. 다른 이미지를 시도하거나 나중에 다시 시도하세요."
+   },
+   "errorMsgBig": {
+      "message": "이미지가 너무 큽니다. 최대 허용 크기는 1mb입니다."
+   },
+   "extDescription": {
+      "message": "한 번의 클릭으로 모든 제품을 검색하고 더 낮은 가격으로 동일하거나 유사한 상품을 찾으십시오."
+   },
+   "extName": {
+      "message": "제품 검색"
+   }
+}

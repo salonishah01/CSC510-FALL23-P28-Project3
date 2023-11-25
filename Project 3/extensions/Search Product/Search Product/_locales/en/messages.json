@@ -1,0 +1,17 @@
+{
+   "contextName": {
+      "message": "Search product"
+   },
+   "errorMsg": {
+      "message": "Sorry, we can't load this image try another image or try again later"
+   },
+   "errorMsgBig": {
+      "message": "Image is to large, maximum allowed size is 1mb"
+   },
+   "extDescription": {
+      "message": "Search any product in one click and find same or similar goods with lower price."
+   },
+   "extName": {
+      "message": "Product Search"
+   }
+}

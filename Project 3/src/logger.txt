@@ -60,3 +60,13 @@ all query:laptop
 all query:laptop
 all query:laptop
 all query:laptop
+az query:shoe
+az query:shoes
+az query:shoes
+az query:shoes
+az query:shoes
+all query:shoe
+all query:shoe
+all query:shoe
+all query:shoe
+all query:shoe

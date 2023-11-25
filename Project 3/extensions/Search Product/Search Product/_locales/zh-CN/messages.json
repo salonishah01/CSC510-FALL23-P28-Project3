@@ -1,0 +1,17 @@
+{
+   "extName": {
+      "message": "产品搜索"
+   },
+   "extDescription": {
+      "message": "一键搜索任何产品，以更低的价格找到相同或相似的商品。"
+   },
+   "contextName": {
+      "message": "产品搜索"
+   },
+   "errorMsg": {
+      "message": "抱歉，我们无法加载此图片请尝试其他图片或稍后再试"
+   },
+   "errorMsgBig": {
+      "message": "图片太大，最大允许大小为 1mb"
+   }
+}

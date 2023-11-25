@@ -1,0 +1,17 @@
+{
+   "contextName": {
+      "message": "Produkt Suche"
+   },
+   "errorMsg": {
+      "message": "Entschuldigung, wir können dieses Bild nicht laden, versuchen Sie es mit einem anderen Bild oder versuchen Sie es später erneut"
+   },
+   "errorMsgBig": {
+      "message": "Das Bild ist zu groß, die maximal zulässige Größe beträgt 1 MB"
+   },
+   "extDescription": {
+      "message": "Suchen Sie jedes Produkt mit einem Klick und finden Sie gleiche oder ähnliche Waren zu einem niedrigeren Preis"
+   },
+   "extName": {
+      "message": "Produkt Suche"
+   }
+}

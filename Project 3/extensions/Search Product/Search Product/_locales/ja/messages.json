@@ -1,0 +1,17 @@
+{
+   "contextName": {
+      "message": "製品検索"
+   },
+   "errorMsg": {
+      "message": "申し訳ありませんが、この画像を読み込めません。別の画像を試すか、後でもう一度試してください"
+   },
+   "errorMsgBig": {
+      "message": "画像が大きすぎます。最大許容サイズは 1 MB です"
+   },
+   "extDescription": {
+      "message": "ワンクリックで任意の製品を検索し、同じまたは類似の商品を低価格で見つけます。"
+   },
+   "extName": {
+      "message": "製品検索"
+   }
+}

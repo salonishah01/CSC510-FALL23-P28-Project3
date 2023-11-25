@@ -1,0 +1,17 @@
+{
+   "contextName": {
+      "message": "Pesquisar produto"
+   },
+   "errorMsg": {
+      "message": "Desculpe, não podemos carregar esta imagem tente outra imagem ou tente novamente mais tarde"
+   },
+   "errorMsgBig": {
+      "message": "A imagem é muito grande, o tamanho máximo permitido é 1 MB"
+   },
+   "extDescription": {
+      "message": "Pesquise qualquer produto com um clique e encontre produtos iguais ou similares com preço mais baixo."
+   },
+   "extName": {
+      "message": "Pesquisa de produtos"
+   }
+}
