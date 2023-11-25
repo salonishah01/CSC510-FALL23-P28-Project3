@@ -1,0 +1,112 @@
+{
+  "name": {
+    "message": "Student Beans"
+  },
+  "description": {
+    "message": "Uczniowie i studenci mogą otrzymywać automatyczne powiadomienia o dostępnych zniżkach studenckich!"
+  },
+  "m_no_discount": {
+    "message": "Przykro nam, nie ma żadnych dostępnych zniżek"
+  },
+  "m_discount_available": {
+    "message": "Sprawdź to! Znaleźliśmy uczniowską/studencką zniżkę dla Ciebie"
+  },
+  "m_visit_student_beans": {
+    "message": "Odwiedź Student Beans, aby odkryć ponad 750 zniżek uczniowskich i studenckich"
+  },
+  "m_at_brand": {
+    "message": "w $BRAND$",
+    "placeholders": {
+      "brand": {
+        "content": "$1"
+      }
+    }
+  },
+  "a_go_to_student_beans": {
+    "message": "Przejdź do Student Beans"
+  },
+  "a_get_discount": {
+    "message": "Odbierz zniżkę"
+  },
+  "d_united_kingdom": {
+    "message": "Wielka Brytania"
+  },
+  "d_united_states": {
+    "message": "Stany Zjednoczone"
+  },
+  "d_france": {
+    "message": "Francja"
+  },
+  "d_germany": {
+    "message": "Niemcy"
+  },
+  "d_netherlands": {
+    "message": "Holandia"
+  },
+  "d_ireland": {
+    "message": "Irlandia"
+  },
+  "d_spain": {
+    "message": "Hiszpania"
+  },
+  "d_italy": {
+    "message": "Włochy"
+  },
+  "d_canada": {
+    "message": "Kanada"
+  },
+  "d_australia": {
+    "message": "Australia"
+  },
+  "d_belgium": {
+    "message": "Belgia"
+  },
+  "d_sweden": {
+    "message": "Szwecja"
+  },
+  "d_denmark": {
+    "message": "Dania"
+  },
+  "d_austria": {
+    "message": "Austria"
+  },
+  "d_poland": {
+    "message": "Polska"
+  },
+  "d_new_zealand": {
+    "message": "Nowa Zelandia"
+  },
+  "d_china": {
+    "message": "Chiny"
+  },
+  "m_we_have_found_offers": {
+    "message": "Znaleźliśmy $COUNT$ ofert",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_we_have_found_offer": {
+    "message": "Znaleźliśmy 1 ofertę"
+  },
+  "m_student_discounts": {
+    "message": "$COUNT$ Zniżka uczniowska/studencka",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_student_discount": {
+    "message": "1 zniżka uczniowska/studencka"
+  },
+  "m_for_anyone_to_use": {
+    "message": "$COUNT$ do wykorzystania przez wszystkich",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  }
+}
