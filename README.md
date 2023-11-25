@@ -290,15 +290,25 @@ Wrapper API to fetch slash scrape results. This API provides a one-step solution
 - Slash aims to tackle this challenge head-on by presenting a user-friendly, all-encompassing solution for uncovering the finest product deals offered by major market retailers. Currently tailored for students seeking optimal deals across various e-commerce sites, Slash is adaptable for anyone interested in developing an application that consumes these web APIs.
 - Looking ahead, the future scope of Slash extends beyond its current form. Envisage a web application with a user-friendly frontend or the potential for Android or iOS applications utilizing these web APIs in the backend. This opens the door for anyone to build their custom applications atop these versatile web APIs, expanding the horizons of deal-finding possibilities.
 
-## :golf: Future Roadmap
+## :golf: Future Roadmap : Future Enhancements for Slash
 
-- Deploy the website on a public server to ensure widespread accessibility, allowing customers to seamlessly utilize its features.
-- Extend web scraping capabilities to encompass data extraction from a comprehensive range of E-commerce websites, providing users with a broader spectrum of options and deals.
-- Enable real-time updates through advanced technologies such as WebSockets or Server-Sent Events (SSE). This ensures users receive immediate notifications when prices drop on their selected websites, enhancing their ability to capitalize on time-sensitive deals.
-- Integrate third-party authentication mechanisms, including Gmail and Outlook, to provide users with a seamless and secure login experience, leveraging existing trusted accounts.
-- Enhance user experience by implementing a "Forgot Password" feature directly within the existing UI, streamlining the recovery process and ensuring users can regain access to their accounts effortlessly.
-- Optimize the database infrastructure to facilitate improved performance, scalability, and data management, ensuring a seamless and responsive user experience.
-- Introduce a sorting option based on user ratings, empowering users to prioritize and explore products based on the experiences and feedback of other customers, enhancing their decision-making process.
+**1. Mobile Application Development** Develop mobile applications for both Android and iOS platforms to provide users with a convenient on-the-go experience.
+
+**2. Enhanced User Profiles** Implement user profiles to save preferences, search history, and favorite items for a personalized experience.
+
+**3. Machine Learning for Deal Predictions** Integrate machine learning algorithms to analyze user behavior and improve deal recommendations over time.
+
+**4. Community Features** Introduce a community aspect for users to share deals, reviews, and tips, fostering engagement.
+
+**5. Price Tracking Alerts** Expand the watchlist feature with price tracking alerts, notifying users when item prices drop below set thresholds.
+
+**6. Multiple Language Support** Make the application accessible to a wider audience by supporting multiple languages.
+
+**7. Integration with Additional E-commerce Platforms** Extend web scraping capabilities to include a broader range of e-commerce websites.
+
+**8. Advanced Authentication Methods** Implement additional authentication methods like social media logins (Facebook, Google) for user flexibility.
+
+**9. Real-time Chat Support** Introduce real-time chat support to assist users with queries and enhance user satisfaction.
 
 ## Team Members
 
