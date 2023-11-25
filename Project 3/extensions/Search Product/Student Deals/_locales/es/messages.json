@@ -1,0 +1,112 @@
+{
+  "name": {
+    "message": "Student Beans"
+  },
+  "description": {
+    "message": "¡Los estudiantes pueden recibir alertas automáticas sobre los descuentos para estudiantes disponibles!"
+  },
+  "m_no_discount": {
+    "message": "Lo sentimos, no hay descuento disponible"
+  },
+  "m_discount_available": {
+    "message": "¡Échale un vistazo! Encontramos un descuento para estudiantes para ti"
+  },
+  "m_visit_student_beans": {
+    "message": "Visita Student Beans para descubrir más de 750 descuentos para estudiantes"
+  },
+  "m_at_brand": {
+    "message": "en $BRAND$",
+    "placeholders": {
+      "brand": {
+        "content": "$1"
+      }
+    }
+  },
+  "a_go_to_student_beans": {
+    "message": "Ir a Student Beans"
+  },
+  "a_get_discount": {
+    "message": "Obtener descuento"
+  },
+  "d_united_kingdom": {
+    "message": "Reino Unido"
+  },
+  "d_united_states": {
+    "message": "Estados Unidos"
+  },
+  "d_france": {
+    "message": "Francia"
+  },
+  "d_germany": {
+    "message": "Alemania"
+  },
+  "d_netherlands": {
+    "message": "Países Bajos"
+  },
+  "d_ireland": {
+    "message": "Irlanda"
+  },
+  "d_spain": {
+    "message": "España"
+  },
+  "d_italy": {
+    "message": "Italia"
+  },
+  "d_canada": {
+    "message": "Canadá"
+  },
+  "d_australia": {
+    "message": "Australia"
+  },
+  "d_belgium": {
+    "message": "Bélgica"
+  },
+  "d_sweden": {
+    "message": "Suecia"
+  },
+  "d_denmark": {
+    "message": "Dinamarca"
+  },
+  "d_austria": {
+    "message": "Austria"
+  },
+  "d_poland": {
+    "message": "Polonia"
+  },
+  "d_new_zealand": {
+    "message": "New Zealand"
+  },
+  "d_china": {
+    "message": "China"
+  },
+  "m_we_have_found_offers": {
+    "message": "Hemos encontrado $COUNT$ ofertas",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_we_have_found_offer": {
+    "message": "Hemos encontrado 1 oferta"
+  },
+  "m_student_discounts": {
+    "message": "$COUNT$ Descuentos para estudiantes",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "m_student_discount": {
+    "message": "1 descuento para estudiantes"
+  },
+  "m_for_anyone_to_use": {
+    "message": "$COUNT$ para que cualquiera pueda usar",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  }
+}
