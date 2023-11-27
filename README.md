@@ -326,3 +326,7 @@ For any queries and help, please reach out to us at: csc510se.p27@gmail.com
 ## Demo video
 
 [Phase-3 Enhancements Demo Video] - add video link here
+
+## Project Rubric
+
+[Project 3 Rubric](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/docs/Project3%20rubric.md)
