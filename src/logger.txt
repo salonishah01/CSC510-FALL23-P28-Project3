@@ -70,3 +70,12 @@ all query:shoe
 all query:shoe
 all query:shoe
 all query:shoe
+all query:laptop
+all query:macbook
+all query:macbook
+all query:macbook
+all query:macbook
+all query:macbook
+all query:macbook
+all query:macbook
+all query:macbook
