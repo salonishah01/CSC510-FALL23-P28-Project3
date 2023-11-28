@@ -27,6 +27,14 @@ Are you tired of endlessly scrolling through e-commerce sites, hoping for the pe
 
 - **Tailored Outputs:** Slash isn't just about finding deals; it's about finding the right deals for you. Generate highly customizable JSON responses to fit your unique preferences.
 
+- Be ready to ask Slash:
+
+  ![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/giphy.gif)
+
+- And after using our services, we know you'll be like:
+  
+  ![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/low_price.gif)
+  
 ## 🚀 DELTA: Unveiling Phase III from Phase II
 
 Get ready for a shopping experience like never before with Phase III enhancements:
@@ -86,6 +94,8 @@ Dive in and let the savings begin!🛒✨🚀
 ---
 
 ## :rocket: Checkout our video
+
+https://youtu.be/eWdd9hEL8Dw
 
 ## Features in Phase 3
 
