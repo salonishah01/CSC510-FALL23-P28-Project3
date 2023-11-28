@@ -38,6 +38,7 @@ Are you tired of endlessly scrolling through e-commerce sites, hoping for the pe
 ## 🚀 DELTA: Unveiling Phase III from Phase II
 
 Get ready for a shopping experience like never before with Phase III enhancements:
+![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/exp.gif)
 
 - **Revamped UI:** Our commitment to an enhanced user experience is evident in the redesigned, visually appealing application interface.
 
@@ -293,6 +294,8 @@ Wrapper API to fetch slash scrape results. This API provides a one-step solution
 
 ## :page_facing_up: Why
 
+- Why??? To save your
+- ![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/giphy%20(1).gif)
 - In the dynamic landscape of today's online marketplace, consumers are confronted with an overwhelming array of options. The vast assortment of products and sellers makes it increasingly challenging to pinpoint the best deals. Recognizing this hurdle, Slash steps in to streamline the deal-finding process, providing users with a simplified and efficient solution.
 - The evolution of internet accessibility has revolutionized retail, allowing both individuals and businesses to engage in global product sales. This digital transformation has democratized the market, enabling businesses of all sizes to reach a global audience and compete on a more level playing field.
 - The e-commerce sector has witnessed unprecedented growth, further accelerated by events such as the COVID-19 pandemic. In 2020, U.S. e-commerce sales experienced a staggering 44% surge, constituting over 21% of total retail sales. This surge underscores the pivotal role of e-commerce in shaping modern consumer behavior.
