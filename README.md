@@ -340,7 +340,7 @@ For any queries and help, please reach out to us at: csc510se.p27@gmail.com
 
 ## Demo video
 
-[Phase-3 Enhancements Demo Video] - add video link here
+[Phase-3 Enhancements Demo Video](https://youtu.be/eWdd9hEL8Dw)
 
 ## Project Rubric
 
