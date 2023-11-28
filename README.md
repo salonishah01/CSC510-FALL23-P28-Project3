@@ -95,7 +95,7 @@ Dive in and let the savings begin!🛒✨🚀
 
 ## :rocket: Checkout our video
 
-https://youtu.be/eWdd9hEL8Dw
+
 
 ## Features in Phase 3
 
