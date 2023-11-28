@@ -34,11 +34,23 @@ Are you tired of endlessly scrolling through e-commerce sites, hoping for the pe
 - And after using our services, we know you'll be like:
   
   ![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/low_price.gif)
-  
+
+## 🚀 Features Unveiled in Phase II
+
+- **Seamless Authentication:** Enjoy a secure shopping experience with the implementation of a dedicated login page for user authentication.
+
+- **Aesthetically Pleasing UI:** Immerse yourself in a visually appealing user interface, ensuring an enjoyable and intuitive browsing experience.
+
+- **CSV Download:** Slash empowers you further by enabling direct CSV file downloads from the results page, making data accessibility a breeze.
+
+- **Progressive Web Application (PWA):** Embrace the latest web technologies. Slash is now a progressive web application for an enhanced and responsive web experience.
+
+- Impressed yet? Wait, there's more!!
+- ![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/exp.gif)
+
 ## 🚀 DELTA: Unveiling Phase III from Phase II
 
 Get ready for a shopping experience like never before with Phase III enhancements:
-![](https://github.com/salonishah01/CSC510-FALL23-P28-Project3/blob/main/gifs/exp.gif)
 
 - **Revamped UI:** Our commitment to an enhanced user experience is evident in the redesigned, visually appealing application interface.
 
@@ -55,16 +67,6 @@ Get ready for a shopping experience like never before with Phase III enhancement
 - **Chrome Extensions:**
   1. **"Search Product"** is a robust browser extension that simplifies online shopping by enabling quick searches for products with lower prices, utilizing features like image-based searches, and providing a user-friendly interface for an efficient and economical shopping experience.
   2. Never miss out on student discounts while shopping online with the **"Student Beans"** Chrome extension, which automatically alerts you to exclusive deals from thousands of brands, providing quick access to verified discount codes and enhancing the savings for university, college, and sixth form students."
-
-## 🚀 Features Unveiled in Phase II
-
-- **Seamless Authentication:** Enjoy a secure shopping experience with the implementation of a dedicated login page for user authentication.
-
-- **Aesthetically Pleasing UI:** Immerse yourself in a visually appealing user interface, ensuring an enjoyable and intuitive browsing experience.
-
-- **CSV Download:** Slash empowers you further by enabling direct CSV file downloads from the results page, making data accessibility a breeze.
-
-- **Progressive Web Application (PWA):** Embrace the latest web technologies. Slash is now a progressive web application for an enhanced and responsive web experience.
 
 ## Elevate Your Shopping Game with Slash!
 Get ready to redefine yur online shopping experience.
